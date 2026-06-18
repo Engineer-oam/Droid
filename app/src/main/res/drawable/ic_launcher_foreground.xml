@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- USB Connector -->
+    <path
+        android:fillColor="#E2E2E6"
+        android:pathData="M 42,22 L 66,22 L 66,38 L 42,38 Z" />
+    <path
+        android:fillColor="#1A1C1E"
+        android:pathData="M 46,26 L 50,26 L 50,32 L 46,32 Z M 58,26 L 62,26 L 62,32 L 58,32 Z" />
+
+    <!-- Drive Body Base -->
+    <path
+        android:fillColor="#4A4458"
+        android:pathData="M 34,38 L 74,38 C 78.4,38 82,41.6 82,46 L 82,78 C 82,82.4 78.4,86 74,86 L 34,86 C 29.6,86 26,82.4 26,78 L 26,46 C 26,41.6 29.6,38 34,38 Z" />
+
+    <!-- Drive Top Accent -->
+    <path
+        android:fillColor="#D0BCFF"
+        android:pathData="M 34,38 L 74,38 C 78.4,38 82,41.6 82,46 L 82,50 L 26,50 L 26,46 C 26,41.6 29.6,38 34,38 Z" />
+        
+    <!-- Data Transfer Light (Green Accent) -->
+    <path
+        android:fillColor="#B1D18A"
+        android:pathData="M 50,72 a 4,4 0 1,0 8,0 a 4,4 0 1,0 -8,0" />
+</vector>

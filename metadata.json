@@ -1,0 +1,6 @@
+{
+  "name": "DriveDroid",
+  "description": "Simulate a virtual USB flash drive to host bootable ISOs and installers when connected via USB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
